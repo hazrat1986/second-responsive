@@ -1,0 +1,67 @@
+h1{
+    background-color: rgba(171, 194, 186, 0.733);
+    text-align: center;
+    padding:20px;
+}
+h2{
+    background-color:blue;
+    padding:13px;
+    color:rgb(245, 255, 211);
+    width:17%;
+}
+body{
+   background-color: blanchedalmond;
+}
+
+img{
+    width:200px;
+    height: 250px;
+    padding: 20px;
+}
+h3{
+    color: rgb(92, 160, 114);
+    
+    
+}
+class{
+    width: 1024px;
+    margin: 0px;
+}
+#main-bio,
+#contact-info,
+#bio-image{
+    float: left;
+}
+footer  {
+margin:0%;
+background-color: beige;
+clear: both;
+}
+.one{
+    -ms-flow-into: inherit;
+}
+button{
+    float:right;
+}
+@media screen and (max-width:960px){
+    h1{
+        width:100%;
+    }
+
+}
+@media screen and (max-width:768px){
+    p{
+        width: 100%;
+        
+    }
+    h2{
+        width: 100%;
+        text-align: center;
+    }
+}
+@media screen and (max-width:340px){
+    footer{
+        width: 50%;
+
+    }
+}

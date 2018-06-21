@@ -1,0 +1,28 @@
+h1{
+    background-color: rgb(121, 172, 231);
+    padding: 15px;
+    width:33%;;
+}
+p{
+    float: right;
+    text-align:auto;
+}
+img{
+    padding: 3px;
+    float: left;
+}
+
+.navbar-brand{
+    margin-right: 100px;
+    background: #4aaaa5;
+
+    border: 2px solid rgb(80, 78, 78);
+    
+}
+.footer{
+   background-color: rgb(75, 72, 72);
+   text-align: center;
+   color: aquamarine;
+   padding:15px;
+   width: 100%;
+}

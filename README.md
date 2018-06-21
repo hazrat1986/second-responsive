@@ -1,1 +1,1 @@
-# second-responsive
+# responsive
